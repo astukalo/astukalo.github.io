@@ -7,6 +7,8 @@ tagline: Yet Another Software Engineer blog
 description: Technical posts on software engineering by Anton Stukalo
 paginate: 5
 
+permalink: pretty
+
 author:
   name: 'Anton Stukalo'
   url: http://astukalo.github.io
