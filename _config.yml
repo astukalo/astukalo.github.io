@@ -3,7 +3,7 @@ excerpt_separator: ""
 markdown: kramdown
 url: http://astukalo.github.io
 title: Anton Stukalo
-tagline: Yet Another Software Engineer blog
+tagline: Yet Another Software Engineer's blog
 description: Technical posts on software engineering by Anton Stukalo
 paginate: 5
 
