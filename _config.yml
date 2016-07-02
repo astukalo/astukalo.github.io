@@ -1,8 +1,25 @@
 excerpt_separator: ""
-pygments: true
+#pygments: true
 markdown: kramdown
 url: http://astukalo.github.io
 title: Anton Stukalo
-tagline: A log of everyday life
-description: My awesome new site
+tagline: Yet Another Software Engineer blog
+description: Technical posts on software engineering by Anton Stukalo
 paginate: 5
+
+author:
+  name: 'Anton Stukalo'
+  url: http://astukalo.github.io
+
+disqus_shortname: 'astukalo'
+exclude: [Gemfile, Gemfile.lock, README.MD]
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
