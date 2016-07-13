@@ -28,3 +28,10 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jemoji
+
+excerpt_separator: <!--more-->
+
+# Theme
+theme:
+  # Localization Strings
+  str_continue_reading: "Continue reading..."

@@ -9,7 +9,7 @@ In one of our java projects we have a 3rd party lib that sometimes logs to stder
 Unfortunately, these log entries are quite important to ignore and
 of course we would like to know **when** shit happens.
 
-So, I have written this shell script to redirect output to file and add timestamps there:
+So, I have written this shell script to redirect output to file and to add timestamps there<!--more-->:
 
 {% gist 080964d1553dca2349e9d98b10f933a6 %}
 
