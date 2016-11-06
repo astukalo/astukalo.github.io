@@ -1,5 +1,5 @@
 #About
-Anton Stukalo's personal web site: [a5s7.xyz](http://a5s7.xyz)
+Anton Stukalo's personal web site: [a5s7.xyz](https://a5s7.xyz)
 
 # License
 The following directories and their contents are Copyright Anton Stukalo. You may not reuse anything therein without my permission:
