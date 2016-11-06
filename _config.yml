@@ -1,7 +1,7 @@
 excerpt_separator: ""
 #pygments: true
 markdown: kramdown
-url: http://astukalo.github.io
+url: https://a5s7.xyz
 title: Anton Stukalo
 tagline: Yet Another Software Engineer's blog
 description: Technical posts on software engineering by Anton Stukalo
@@ -11,7 +11,7 @@ permalink: pretty
 
 author:
   name: 'Anton Stukalo'
-  url: http://astukalo.github.io
+  url: https://a5s7.xyz
 
 disqus_shortname: 'astukalo'
 exclude: [Gemfile, Gemfile.lock, README.MD]
