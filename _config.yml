@@ -31,7 +31,7 @@ gems:
 
 excerpt_separator: <!--more-->
 
-# Theme
+# Theme. TODO check why localization doesn't work when deployed, though works locally
 theme:
   # Localization Strings
   str_continue_reading: "Continue reading..."
